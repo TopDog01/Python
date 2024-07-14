@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dde06e16-5eb9-40fb-a3e8-5f633629a1e7" name="Changes" comment="add Seminar_7 Task_2">
-      <change afterPath="$PROJECT_DIR$/Seminar_8/Task_1a.py" afterDir="false" />
+    <list default="true" id="dde06e16-5eb9-40fb-a3e8-5f633629a1e7" name="Changes" comment="add Seminar_8 phone">
+      <change afterPath="$PROJECT_DIR$/Seminar_8/Task_1b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_8/phone.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_8/phone.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,29 +24,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2imu3WorFtDXyWMQorHDpWgo2nI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Task_1a.executor": "Run",
-    "Python.Task_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task_1a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Task_1a">
     <configuration name="Task_1a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -115,7 +117,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720107874314</updated>
-      <workItem from="1720107876606" duration="8333000" />
+      <workItem from="1720107876606" duration="8932000" />
+      <workItem from="1720276911853" duration="14000" />
+      <workItem from="1720945731499" duration="26000" />
+      <workItem from="1720950787805" duration="7348000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <option name="closed" value="true" />
@@ -141,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720110465270</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Seminar_8 Task_1a">
+      <option name="closed" value="true" />
+      <created>1720117167452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720117167452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add Seminar_8 phone">
+      <option name="closed" value="true" />
+      <created>1720117331408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720117331408</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,10 +183,12 @@
     <MESSAGE value="new project" />
     <MESSAGE value="Task_1" />
     <MESSAGE value="add Seminar_7 Task_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Seminar_7 Task_2" />
+    <MESSAGE value="add Seminar_8 Task_1a" />
+    <MESSAGE value="add Seminar_8 phone" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Seminar_8 phone" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$Task_2.coverage" NAME="Task_2 Coverage Results" MODIFIED="1720110399633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seminar_7" />
-    <SUITE FILE_PATH="coverage/pythonProject$Task_1a.coverage" NAME="Task_1a Coverage Results" MODIFIED="1720116565342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seminar_8" />
+    <SUITE FILE_PATH="coverage/pythonProject$Task_1a.coverage" NAME="Task_1a Coverage Results" MODIFIED="1720953357702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seminar_8" />
   </component>
 </project>
