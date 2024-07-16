@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dde06e16-5eb9-40fb-a3e8-5f633629a1e7" name="Changes" comment="add Seminar_8 phone">
-      <change afterPath="$PROJECT_DIR$/Seminar_8/Task_1b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar_8/phone.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_8/phone.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_8/Task_1b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_8/Task_1b.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,8 @@
       <workItem from="1720107876606" duration="8932000" />
       <workItem from="1720276911853" duration="14000" />
       <workItem from="1720945731499" duration="26000" />
-      <workItem from="1720950787805" duration="7348000" />
+      <workItem from="1720950787805" duration="8346000" />
+      <workItem from="1721140446464" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <option name="closed" value="true" />
@@ -162,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720117331408</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add Seminar_8 phone">
+      <option name="closed" value="true" />
+      <created>1720965173756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720965173756</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
