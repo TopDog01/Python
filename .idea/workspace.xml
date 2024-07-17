@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dde06e16-5eb9-40fb-a3e8-5f633629a1e7" name="Changes" comment="add Seminar_8 phone">
-      <change afterPath="$PROJECT_DIR$/Seminar_9/Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar_9/Task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar_9/california_housing_test.csv" afterDir="false" />
+    <list default="true" id="dde06e16-5eb9-40fb-a3e8-5f633629a1e7" name="Changes" comment="add Seminar_9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_8/Task_1b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_8/Task_1b.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +34,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Task.executor": "Run",
-    "Python.Task_1a.executor": "Run",
-    "Python.Task_2 (1).executor": "Run",
-    "Python.Task_2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_1a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Task_2 (1)">
     <configuration name="Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -175,7 +173,8 @@
       <workItem from="1720276911853" duration="14000" />
       <workItem from="1720945731499" duration="26000" />
       <workItem from="1720950787805" duration="8346000" />
-      <workItem from="1721140446464" duration="5787000" />
+      <workItem from="1721140446464" duration="6529000" />
+      <workItem from="1721243989070" duration="1330000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <option name="closed" value="true" />
@@ -233,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721141238601</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add Seminar_9">
+      <option name="closed" value="true" />
+      <created>1721148922858</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721148922858</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,10 +264,11 @@
     <MESSAGE value="add Seminar_7 Task_2" />
     <MESSAGE value="add Seminar_8 Task_1a" />
     <MESSAGE value="add Seminar_8 phone" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Seminar_8 phone" />
+    <MESSAGE value="add Seminar_9" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Seminar_9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$Task_2__1_.coverage" NAME="Task_2 (1) Coverage Results" MODIFIED="1721148660770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seminar_9" />
+    <SUITE FILE_PATH="coverage/pythonProject$Task_2__1_.coverage" NAME="Task_2 (1) Coverage Results" MODIFIED="1721148681097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seminar_9" />
     <SUITE FILE_PATH="coverage/pythonProject$Task.coverage" NAME="Task Coverage Results" MODIFIED="1721147842828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seminar_9" />
     <SUITE FILE_PATH="coverage/pythonProject$Task_2.coverage" NAME="Task_2 Coverage Results" MODIFIED="1721148153382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seminar_7" />
     <SUITE FILE_PATH="coverage/pythonProject$Task_1a.coverage" NAME="Task_1a Coverage Results" MODIFIED="1720953357702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seminar_8" />
